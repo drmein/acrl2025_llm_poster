@@ -74,7 +74,7 @@ Until the full implementation guides are ready, here are some resources to begin
 
 ### Small Models Worth Exploring
 
-- [SmolLM](https://huggingface.co/smolmodels) - Efficient small language models
+- [SmolLM](https://github.com/huggingface/smollm) - Efficient small language models
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) - Pretrained small language models
 - [Phi-2](https://huggingface.co/microsoft/phi-2) - 2.7B parameter model with good performance
 
