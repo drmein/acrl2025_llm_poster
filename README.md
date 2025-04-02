@@ -2,8 +2,6 @@
 
 *Sustainable, privacy-preserving AI for libraries using minimal hardware*
 
-![Library AI Farm Metaphor](https://via.placeholder.com/800x400?text=Local+AI:+Sustainable+Farm+vs.+Cloud+AI:+Factory+Farm)
-
 ## Project Overview
 
 This repository contains resources from a project exploring how academic libraries can implement AI that aligns with our core values of privacy, sustainability, and institutional autonomy.
@@ -123,12 +121,3 @@ Have questions or interested in collaborating? Reach out:
 - Email: david.meincke@jwu.edu
 - ACRL 2025 Poster Session: Thursday, April 3rd, 2:00-3:45 PM
 
-## License
-
-This project is released under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Johnson & Wales University Library for supporting this research
-- All participants in testing and providing feedback
-- The open-source AI community for making small, efficient models available
